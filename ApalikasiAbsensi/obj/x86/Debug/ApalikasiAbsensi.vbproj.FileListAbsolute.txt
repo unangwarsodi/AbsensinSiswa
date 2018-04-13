@@ -1,0 +1,48 @@
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.exe
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.pdb
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.xml
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.Form1.resources
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.Resources.resources
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.vbproj.GenerateResource.Cache
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.exe
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.xml
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.pdb
+C:\Users\Unang Warsodi\AppData\Local\Temporary Projects\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.data.resources
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.exe
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.xml
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.pdb
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.exe
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.pdb
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.xml
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.Form1.resources
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.Resources.resources
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.vbproj.GenerateResource.Cache
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.tambah.resources
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.edit.resources
+C:\Users\Unang Warsodi\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.tambah2.resources
+C:\Users\Unang Warsodi\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.edit2.resources
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.vbprojResolveAssemblyReference.cache
+C:\Users\Unang Warsodi\documents\visual studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.splas.resources
+C:\Users\Unang Warsodi\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.exe.manifest
+C:\Users\Unang Warsodi\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.application
+C:\Users\Unang Warsodi\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.exe.manifest
+C:\Users\Unang Warsodi\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.application
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.exe
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.xml
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.pdb
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.exe.manifest
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.application
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.exe
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.pdb
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\bin\Debug\ApalikasiAbsensi.xml
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.vbprojResolveAssemblyReference.cache
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.edit.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.edit2.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.Form1.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.Resources.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.splas.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.tambah.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.tambah2.resources
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.vbproj.GenerateResource.Cache
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.exe.manifest
+C:\Users\unang\Documents\Visual Studio 2010\Projects\ApalikasiAbsensi\ApalikasiAbsensi\obj\x86\Debug\ApalikasiAbsensi.application

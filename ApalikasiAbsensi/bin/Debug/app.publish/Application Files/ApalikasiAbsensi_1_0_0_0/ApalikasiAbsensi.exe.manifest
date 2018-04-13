@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ApalikasiAbsensi.exe" version="1.0.0.0" publicKeyToken="cd1a05608a124db0" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ApalikasiAbsensi" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ApalikasiAbsensi.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ApalikasiAbsensi.exe" size="1779712">
+      <assemblyIdentity name="ApalikasiAbsensi" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>TzCFgsp7GjpumTyO9YaiyEJ+mp0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=SORA\Unang Warsodi" issuerKeyHash="617e05064d63326823ea393c0d582ba90ec4e65e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>a24hOpBMOlWJq8MipzD90IssobE=</DigestValue></Reference></SignedInfo><SignatureValue>NmqvVsCLdx45AfaYfDCT/uqdSkkiN7i/BNEDCmP2DGWXsCwDOmWiDDTG8uVks4WBDr1ZC35yOj+ffjRFq8z32Mcy/3XHuzTSLTL0QZEktXHimKspbDVyRCuYEQQatPhNegv61OiugKbp3ggZRWRX1pz7nyRc7PJR5o4cY2ZY0Gc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>mfsvs65CDQD4fvB7O8TJUbb/iycSEAceg5EgXhLqV6DsMtSwN3G+gnU0CUKzPC65sFKRDCzegIdQxJysSR6xTO75NG7791+8MoAnJ7jeQZI9RcAwxYEsLxVowhnp/dOpVEaxe+X94RzHlC1RfFeV26H2OHjUrmzFdBezfA556Gk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b1a12c8bd0fd30a722c3ab89553a4c903a216e6b" Description="" Url=""><as:assemblyIdentity name="ApalikasiAbsensi.exe" version="1.0.0.0" publicKeyToken="cd1a05608a124db0" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SORA\Unang Warsodi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iylrfL83Xi9kOS8kN+cUSgIZUFU=</DigestValue></Reference></SignedInfo><SignatureValue>PRcFA4bL+OMEOG2szs6zaiZwuIjPZguz5SVC/f6uWIqIJnuEY7UDQu+eimF6UWvq/XH/tOijSeaqrLZczKmQSiqw3RU63aSZ9zKIPY/Znk3iVbituleMRsNdVAjWyh+3yPSxEew2fNJMNpTIubwzBZOGAMoyauZ+lGjeXofWSyc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mfsvs65CDQD4fvB7O8TJUbb/iycSEAceg5EgXhLqV6DsMtSwN3G+gnU0CUKzPC65sFKRDCzegIdQxJysSR6xTO75NG7791+8MoAnJ7jeQZI9RcAwxYEsLxVowhnp/dOpVEaxe+X94RzHlC1RfFeV26H2OHjUrmzFdBezfA556Gk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQXPrUuwyn9J1LkMI55/sSgTANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAUwBPAFIAQQBcAFUAbgBhAG4AZwAgAFcAYQByAHMAbwBkAGkwHhcNMTYxMTA0MDMyNTQ0WhcNMTcxMTA0MDkyNTQ0WjAvMS0wKwYDVQQDHiQAUwBPAFIAQQBcAFUAbgBhAG4AZwAgAFcAYQByAHMAbwBkAGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJn7L7OuQg0A+H7wezvEyVG2/4snEhAHHoORIF4S6leg7DLUsDdxvoJ1NAlCszwuubBSkQws3oCHUMScrEkesUzu+TRu+/dfvDKAJye43kGSPUXAMMWBLC8VaMIZ6f3TqVRGsXvl/eEcx5QtUXxXlduh9jh41K5sxXQXs3wOeehpAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAIKBE7LO3ezliVt+Z5aFFT6jNuTtnNY5ERWoglLwIB/ErDmY0SMHDgIz4Z2M0QOjvz24RqFVUQsqQiBaIXFDTVlqMXm9B6siXXJSj396CjsLl0P/98A4IVhzrjUL4+pe21m6wRnNJk7/h/PwdMOz3I9AWlAd0+0x8TvxOOHDMWi0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
